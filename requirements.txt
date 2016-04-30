@@ -1,0 +1,2 @@
+twython==3.4.0
+feedparser==5.2.1
